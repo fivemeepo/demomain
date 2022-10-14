@@ -2,3 +2,7 @@ github.com/fivemeepo/demopkg v0.0.0-20221014095603-393b638d28f0 h1:1QdITCBa9e6Q6
 github.com/fivemeepo/demopkg v0.0.0-20221014095603-393b638d28f0/go.mod h1:DN1hNKoIOia2f/SIA8QigepgcfmTzzhUDUeq1N1gogI=
 github.com/fivemeepo/demopkg v0.0.0-20221014100151-c72837bdb9b6 h1:IujNyFMKXkp4L68FiTfLGwe2YcPXxRSOWoFEBZftRBM=
 github.com/fivemeepo/demopkg v0.0.0-20221014100151-c72837bdb9b6/go.mod h1:DN1hNKoIOia2f/SIA8QigepgcfmTzzhUDUeq1N1gogI=
+github.com/fivemeepo/demopkg v0.0.0-20221014101147-d7954645d66d h1:wtu+enRraRjFxBIbZ+ccfsaEbCDD5W6a117kcBvijx8=
+github.com/fivemeepo/demopkg v0.0.0-20221014101147-d7954645d66d/go.mod h1:DN1hNKoIOia2f/SIA8QigepgcfmTzzhUDUeq1N1gogI=
+github.com/fivemeepo/demopkg v0.0.0-20221014101212-d4193e373516 h1:7VuanCBACfMOUcDL8nKKunfU+41OD9t/4F+F63gd+VQ=
+github.com/fivemeepo/demopkg v0.0.0-20221014101212-d4193e373516/go.mod h1:DN1hNKoIOia2f/SIA8QigepgcfmTzzhUDUeq1N1gogI=

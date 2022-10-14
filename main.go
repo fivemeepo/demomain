@@ -6,5 +6,6 @@ import (
 
 func main() {
 	demopkg.Foo()
+	demopkg.Foo2()
 	demopkg.Bar()
 }
